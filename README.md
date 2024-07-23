@@ -56,7 +56,7 @@ My present study is to investigate the mechanism of word concept learning in bra
 I am also interested in the following issues: 
 1) how people learn social concepts; 
 2) how learnt words or words’ relationships change existing object representations; 
-3) how word concept learning varies between individuals.
+3) individual differences in word concept learning.
 
 ## FUNDINGS
 
