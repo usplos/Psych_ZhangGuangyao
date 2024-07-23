@@ -61,8 +61,8 @@ I am also interested in the following issues:
 
 | Year | Fundings |
 |-------|-------|
-| 2024 | The China Postdoctoral Science Foundation (Special Funding for Postdoctoral Researchers; 2024T170062) |
-| 2023 | The China Postdoctoral Science Foundation (2023M740299) |
+| 2024 | The China Postdoctoral Science Foundation (Special Funding for Postdoctoral Researchers) |
+| 2023 | The China Postdoctoral Science Foundation |
 
 ## AWARDS
 
