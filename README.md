@@ -4,7 +4,7 @@
 
 **Email**: zhangguangyao@bnu.edu.cn / zgy070620@163.com
 
-**Google Scholar**: https://scholar.google.com/citations?user=wI1RyYEAAAAJ&hl=en
+**ResearchGate**: https://www.researchgate.net/profile/Guangyao-Zhang-4/research
 
 ## EMPLOYMENT AND EDUCATION
 | Year | Institution |
