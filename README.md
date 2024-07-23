@@ -53,7 +53,7 @@ However, it was still unknow how our brain achieves such effective learning.
 My present study is to investigate the mechanism of word concept learning in brain, by constructing computational models based on brain data.
 
 I am also interested in the following issues: 
-1) how people learn words of social semantics; 
+1) how people learn social concepts; 
 2) how learnt words or words’ relationships change existing object representations; 
 3) how word concept learning varies between individuals.
 
