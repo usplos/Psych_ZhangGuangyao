@@ -61,22 +61,22 @@ I am also interested in the following issues:
 
 | Year | Fundings |
 |-------|-------|
-| 2024 | The China Postdoctoral Science Foundation (中国博士后科学基金第17批特别资助) |
-| 2023 | The China Postdoctoral Science Foundation (中国博士后科学基金第74批面上资助) |
+| 2024 | **The China Postdoctoral Science Foundation** (中国博士后科学基金第17批特别资助) |
+| 2023 | **The China Postdoctoral Science Foundation** (中国博士后科学基金第74批面上资助) |
 
 ## AWARDS
 
 | Year | Awards |
 |-------|-------|
-| 2024 | Outstanding Doctoral Dissertation Award of the Chinese Academy of Sciences (中国科学院优秀博士学位论文) |
+| 2024 | **Outstanding Doctoral Dissertation Award of the Chinese Academy of Sciences** (中国科学院优秀博士学位论文) |
 
 ## CONFERENCE PRESENTATIONS
 
-**Zhang, G.**, Wang, X., Zhu, L., & Bi, Y. (2024, September). Brain Learns Word Concepts as Bayesian Inference. Poster presented at the 17th Annual Meeting of Chinese Neuroscience Society (Suzhou, China)
+**Zhang, G.**, Wang, X., Zhu, L., & Bi, Y. (2024, September). Brain Learns Word Concepts as Bayesian Inference. Poster presented at **The 17th Annual Meeting of Chinese Neuroscience Society** (Suzhou, China)
 
-**Zhang, G.**, Wang, X., Zhu, L., & Bi, Y. (2024, May). Brain Learns Word Concepts as Bayesian Inference. Poster presented at the Division of General Psychology and Experimental Psychology, Chinese Psychological Society (Lanzhou, China)
+**Zhang, G.**, Wang, X., Zhu, L., & Bi, Y. (2024, May). Brain Learns Word Concepts as Bayesian Inference. Poster presented at **The Division of General Psychology and Experimental Psychology, Chinese Psychological Society** (Lanzhou, China)
 
-**Zhang, G.** & Bi, Y. (2024, May). Brain Learns Word Meanings as Bayesian Inference. Poster presented at the Wokshop on Concepts, Actions and Objects (Rovereto, Italy)
+**Zhang, G.** & Bi, Y. (2024, May). Brain Learns Word Meanings as Bayesian Inference. Poster presented at **The Wokshop on Concepts, Actions and Objects** (Rovereto, Italy)
 
 
 
