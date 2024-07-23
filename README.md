@@ -1,9 +1,10 @@
 # Guangyao Zhang, PhD
 
-| **Institution**: Beijing Normal University, No.19, Xinjiekouwai St, Haidian District, Beijing, 100875, P.R.China | 
-|-------|
-| **Email: zhangguangyao@bnu.edu.cn** | 
-| **Google Scholar: https://scholar.google.com/citations?user=wI1RyYEAAAAJ&hl=en** |
+**Institution**: Beijing Normal University, No.19, Xinjiekouwai St, Haidian District, Beijing, 100875, P.R.China
+
+**Email**: zhangguangyao@bnu.edu.cn / zgy070620@163.com
+
+**Google Scholar**: https://scholar.google.com/citations?user=wI1RyYEAAAAJ&hl=en
 
 ## EMPLOYMENT AND EDUCATION
 | Year | Institution |
