@@ -61,14 +61,14 @@ I am also interested in the following issues:
 
 | Year | Fundings |
 |-------|-------|
-| 2024 | The China Postdoctoral Science Foundation (Special Funding for Postdoctoral Researchers) |
-| 2023 | The China Postdoctoral Science Foundation |
+| 2024 | The China Postdoctoral Science Foundation (中国博士后科学基金第17批特别资助) |
+| 2023 | The China Postdoctoral Science Foundation (中国博士后科学基金第74批面上资助) |
 
 ## AWARDS
 
 | Year | Awards |
 |-------|-------|
-| 2024 | Outstanding Doctoral Dissertation Award of the Chinese Academy of Sciences |
+| 2024 | Outstanding Doctoral Dissertation Award of the Chinese Academy of Sciences (中国科学院优秀博士学位论文) |
 
 ## CONFERENCE PRESENTATIONS
 
