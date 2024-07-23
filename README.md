@@ -40,10 +40,10 @@ Lin, N., Xu, Y., Yang, H., **Zhang, G.**, Zhang, M., Wang, S., Hua, H., & Li, X.
 
 ## RESEARCH
 In my PhD, I studied semantics processing in brain by focusing on social semantics processing. 
-Social semantics refers to semantics related to interpersonal interactions or interpersonal relationships. 
+Social semantics refers to the semantics related to interpersonal interactions or interpersonal relationships. 
 The main findings are: 
 1. social semantics processing is associated with a highly specific set of brain regions, including the anterior and posterior temporal lobe, the dorsomedial prefrontal cortex, and the posterior cingulate gyrus (Zhang et al., 2021,*SCAN*);
-2. activations of these regions are sensitive social semantics processing in word-level, sentence-level and narrative-level processing (Zhang et al., 2021, *SCAN*);
+2. activations of these regions are sensitive social semantics processing in word-level, sentence-level and narrative-level processing (Zhang et al., 2021, *SCAN*; Zhang et al., 2023, *BSF*);
 3. the left anterior and posterior portions of the temporal lobe are hypothesized to be involved in social-semantic working memory, because these two regions are sensitive only to sentences containing social semantic information, and can retain previously processed social semantic information (Zhang et al., 2023, *NHB*).
 
 In my PostDoc, my studies focus on how brain learns word concepts. Human can learn the concept of a new word from very few examples, and generalize the concept from examples to new objects. 
@@ -70,6 +70,7 @@ I am also interested in the following issues:
 | Year | Awards |
 |-------|-------|
 | 2024 | **Outstanding Doctoral Dissertation Award of the Chinese Academy of Sciences** (中国科学院优秀博士学位论文) |
+| 2014 | **National Scholarship** (国家奖学金) |
 
 ## CONFERENCE PRESENTATIONS
 
