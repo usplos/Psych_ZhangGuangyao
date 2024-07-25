@@ -1,4 +1,4 @@
-# Guangyao Zhang, PhD
+# Guangyao Zhang, PhD (Curriculum Vitae)
 
 **Institution**: Beijing Normal University, No.19, Xinjiekouwai St, Haidian District, Beijing, 100875, P.R.China
 
