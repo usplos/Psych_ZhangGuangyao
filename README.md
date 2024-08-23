@@ -62,6 +62,7 @@ I am also interested in the following issues:
 
 | Year | Fundings |
 |-------|-------|
+| 2024 | **The National Natural Science Foundation of China** (国家自然科学基金青年科学基金项目) |
 | 2024 | **The China Postdoctoral Science Foundation** (中国博士后科学基金第17批特别资助) |
 | 2023 | **The China Postdoctoral Science Foundation** (中国博士后科学基金第74批面上资助) |
 
