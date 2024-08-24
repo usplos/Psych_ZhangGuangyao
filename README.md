@@ -70,7 +70,7 @@ I am also interested in the following issues:
 
 | Year | Awards |
 |-------|-------|
-| 2024 | **Outstanding Doctoral Dissertation Award of the Chinese Academy of Sciences** (中国科学院优秀博士学位论文) |
+| 2024 | **Award for Excellent Doctoral Dissertation Award of the Chinese Academy of Sciences** (中国科学院优秀博士学位论文) |
 | 2014 | **National Scholarship** (国家奖学金) |
 
 ## CONFERENCE PRESENTATIONS
