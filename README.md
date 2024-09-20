@@ -81,7 +81,10 @@ I am also interested in the following issues:
 
 **Zhang, G.** & Bi, Y. (2024, May). Brain Learns Word Meanings as Bayesian Inference. Poster presented at **The Wokshop on Concepts, Actions and Objects** (Rovereto, Italy)
 
+## PROFESSIONAL SERVICE AND MEMBERSHIPS
 
+### Journal Review
+*Communications Psychology*, *Behavior Research Methods*
 
 
 
