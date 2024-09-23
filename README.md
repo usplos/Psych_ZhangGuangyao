@@ -26,7 +26,7 @@
 
 Borjigin, B., **Zhang, G.**, Hou, Y., & Li, X. (2024). Perceptual Span in Mongolian Text Reading. ***Current Psychology***. https://doi.org/10.1007/s12144-024-06074-6 
 
-Wang, S., Zhang, Y., Shi, W., **Zhang, G.*, Zhang, J., Lin, N., & Zong, C. (2023). A large dataset of semantic ratings and its computational extension. ***Scientific Data***, *10*(1), 106. https://doi.org/10.1038/s41597-023-01995-6
+Wang, S., Zhang, Y., Shi, W., **Zhang, G.**, Zhang, J., Lin, N., & Zong, C. (2023). A large dataset of semantic ratings and its computational extension. ***Scientific Data***, *10*(1), 106. https://doi.org/10.1038/s41597-023-01995-6
 
 Lin, N., Xu, Y., Yang, H., **Zhang, G.**, Zhang, M., Wang, S., Hua, H., & Li, X. (2020). Dissociating the neural correlates of the sociality and plausibility effects in simple conceptual combination. ***Brain Structure and Function***, *225*(3), 995–1008. https://doi.org/10.1007/s00429-020-02052-3
 
@@ -75,7 +75,7 @@ I am also interested in the following issues:
 
 ## CONFERENCE PRESENTATIONS
 
-**Zhang, G.**, Wang, X., Zhu, L., & Bi, Y. (2024, September). Brain Learns Word Concepts as Bayesian Inference. Poster presented at **The 17th Annual Meeting of Chinese Neuroscience Society** (Suzhou, China)
+**Zhang, G.** & Bi, Y. (2024, September). Brain Learns Word Concepts as Bayesian Inference. Poster presented at **The 17th Annual Meeting of Chinese Neuroscience Society** (Suzhou, China)
 
 **Zhang, G.**, Wang, X., Zhu, L., & Bi, Y. (2024, May). Brain Learns Word Concepts as Bayesian Inference. Poster presented at **The Division of General Psychology and Experimental Psychology, Chinese Psychological Society** (Lanzhou, China)
 
